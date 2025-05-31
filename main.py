@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1378436788103811232/LZRP_s2jKHd1PMpFaLZju9XjtpY2UpwDdZqdxwSdAwqmhjcvc6tjECn7e84-atblXTLc"
 STOCKTITAN_URL = "https://www.stocktitan.net/news/"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
